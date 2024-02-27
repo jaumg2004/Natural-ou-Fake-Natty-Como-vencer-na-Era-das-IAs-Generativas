@@ -1,5 +1,5 @@
 # Natural-ou-Fake-Natty-Como-vencer-na-Era-das-IAs-Generativas
-Esse é um projeto de texto feito por uma IA na tentativa de se aproximar de um texto produzido por um humano, o tema escolhido foi aula de Python: 
+Esse é um projeto de texto feito por uma IA na tentativa de se aproximar de um texto produzido por um humano, o tema escolhido foi "aula de Python": 
 
 O que é Python?
 
