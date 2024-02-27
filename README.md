@@ -1,7 +1,7 @@
-# Natural-ou-Fake-Natty-Como-vencer-na-Era-das-IAs-Generativas
+# Natural ou Fake Natty Como vencer na Era das IAs Generativas
 Esse é um projeto de texto feito por uma IA na tentativa de se aproximar de um texto produzido por um humano, o tema escolhido foi "aula de Python": 
 
-O que é Python?:
+# O que é Python?
 
 Python é uma linguagem de programação de alto nível, interpretada, de propósito geral e de sintaxe simples. Foi criada por Guido van Rossum e lançada pela primeira vez em 1991. Desde então, tornou-se uma das linguagens de programação mais populares do mundo devido à sua simplicidade e versatilidade.
 
